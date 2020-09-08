@@ -70,6 +70,7 @@ Contributors
 ~~~~~~~~~~~~
 
 * Lara Freeke <lfreeke@therp.nl>
+* Nikos Tsirintanis <ntsirintanis@therp.nl>
 
 Maintainers
 ~~~~~~~~~~~
